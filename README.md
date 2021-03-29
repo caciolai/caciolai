@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I am Andrea Caciolai, M.Sc. Student in Artificial Intelligence and Robotics at Sapienza University of Rome.
+
+- ⚙️ Tech enthusiast and always eager to learn new things
+- 🤖 I'm currently learning about **Human Robot Interaction** for **robots with flexible joints**.
+- ⚡ I'm interested in **Deep Learning**, **Big Data**, and **Robotics**
