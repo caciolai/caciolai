@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 #### I am Andrea Caciolai, M.Sc. Student in Artificial Intelligence and Robotics at Sapienza University of Rome.
 
 - ⚙️ Tech enthusiast and always eager to learn new things
-- 🤖 I'm currently learning about applying **machine learning** techniques to solve **robotics** problems.
+- 🤖 I'm currently learning about applying **machine learning** techniques to solve **robotics** problems
 - ⚡ I'm interested in **Deep Learning**, **Big Data**, and **Robotics**
