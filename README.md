@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am Andrea Caciolai, M.Sc. Student in Artificial Intelligence and Robotics at Sapienza University of Rome.
+#### I am Andrea Caciolai, Research Scientist at Amazon
 
-- ⚙️ Tech enthusiast and always eager to learn new things
-- 🤖 I'm currently learning about applying **machine learning** techniques to solve **robotics** problems
+- 🗣️ Currently working on **Natural Language Understanding** tasks for **Alexa AI**
+- 🧠 Graduated with a **M.Sc. in Artificial Intelligence and Robotics** at Sapienza University of Rome
 - ⚡ I'm interested in **Deep Learning**, **Big Data**, and **Robotics**
