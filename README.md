@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am Andrea Caciolai, Research Scientist at Amazon
+#### I am Andrea Caciolai, Research Engineer in the Meta FAIR group!
 
-- 🗣️ Currently working on **Natural Language Understanding** tasks for **Alexa AI**
+- 🗣️ Currently working in the **Communications and Language** pillar of **FAIR**
+- 🤖 Previously worked as a Research Scientist at **Amazon Alexa AI**
 - 🧠 Graduated with a **M.Sc. in Artificial Intelligence and Robotics** at Sapienza University of Rome
-- ⚡ I'm interested in **Deep Learning**, **Big Data**, and **Robotics**
