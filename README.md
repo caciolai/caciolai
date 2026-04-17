@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I am Andrea Caciolai, Research Engineer in the Meta FAIR group!
+#### I am Andrea Caciolai, Research Engineer at Meta FAIR!
 
 - 🗣️ Currently working in the **Communications and Language** pillar of **FAIR**
 - 🤖 Previously worked as a Research Scientist at **Amazon Alexa AI**
